@@ -7,7 +7,7 @@ The purpose of this repository is to help others to start with solving easy Leet
 
 # Starting with first easiest problem in Leetcode
 
-**Question no 771: Jewels and Stones **
+**Question no 771: Jewels and Stones**
 
 ![Jewels and Stones](Jewels and Stones.docx)
 
