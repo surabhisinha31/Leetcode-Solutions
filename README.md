@@ -10,4 +10,4 @@ The purpose of this repository is to help others to start with solving easy Leet
 **Question no 771: Jewels and Stones**
 
 
-[Jewels and Stones](../Jewels and Stones.docx)
+[Jewels and Stones](../../Jewels and Stones.docx)
